@@ -25,13 +25,13 @@
 
     {
         "id": 5,
-        "image": "./assets/images/claudius.jpg",
+        "image": "assets/images/claudius.jpg",
         "clicked": false
     },
 
     {
         "id": 6,
-        "image": "assets/images/julian.jpg",
+        "image": "assets/images/julian.png",
         "clicked": false
     },
     
@@ -55,7 +55,7 @@
 
     {
         "id": 10,
-        "image": "assets/images/trajan.jpg",
+        "image": "assets/images/trajan.jpeg",
         "clicked": false
     },
 

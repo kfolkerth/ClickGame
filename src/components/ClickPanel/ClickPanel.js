@@ -2,12 +2,12 @@ import React from "react";
 import "./ClickPanel.css";
 
 const ClickPanel = props => (
-    <div
-    role="img"
+    <img
     aria-label="click item"
+    alt="Meaningful text"
     onClick={() => props.handleClick(props.id)}
-    style={{ backgroundImage: `url("${props.image}")` }}
-    className={`click-item${props.shake ? " shake" : ""}`}
+    src={props.image}
+    className={`click-item${props.shake ? " shake" : ""} m-2`}
   />
 );
 
