@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "image": "assets/images/jcaesar.jpg",
+        "clicked": false
+    },
+
+    {
+        "id": 2,
+        "image": "assets/images/acaesar.jpg",
+        "clicked": false
+    },
+
+    {
+        "id": 3,
+        "image": "assets/images/maurelius.jpg",
+        "clicked": false
+    },
+
+    {
+        "id": 4,
+        "image": "assets/images/nero.jpg",
+        "clicked": false
+    },
+
+    {
+        "id": 5,
+        "image": "./assets/images/claudius.jpg",
+        "clicked": false
+    },
+
+    {
+        "id": 6,
+        "image": "assets/images/julian.jpg",
+        "clicked": false
+    },
+    
+    {
+        "id": 7,
+        "image": "assets/images/septsev.jpeg",
+        "clicked": false
+    },
+
+    {
+        "id": 8,
+        "image": "assets/images/constantinei.jpg",
+        "clicked": false
+    },
+
+    {
+        "id": 9,
+        "image": "assets/images/caligula.jpg",
+        "clicked": false
+    },
+
+    {
+        "id": 10,
+        "image": "assets/images/trajan.jpg",
+        "clicked": false
+    },
+
+    {
+        "id": 11,
+        "image": "assets/images/hadrian.jpg"
+    },
+
+    {
+        "id": 12,
+        "image": "assets/images/diocletian.jpg",
+        "clicked": false
+    }
+]
